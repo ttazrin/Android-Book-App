@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663395913230",
+    "firebase_url": "https://book-as-salah.firebaseio.com",
+    "project_id": "book-as-salah",
+    "storage_bucket": "book-as-salah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663395913230:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663395913230-623gabnn8ckbrbv8t5vih99tmht25t4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "87eb8534bd03154c08b7b2573ba9266b4bf194b8"
+          }
+        },
+        {
+          "client_id": "663395913230-qbq6per3o63ojh8fv3ubum816saiv8dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7274GiYC6IqXwVNp22rgkFO2oeNWekg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663395913230-qbq6per3o63ojh8fv3ubum816saiv8dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
